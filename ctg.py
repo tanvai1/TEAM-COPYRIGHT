@@ -71,24 +71,24 @@ logo = ("""\033[1;32m
              ║║─╔╣║─║║╔══╝╚╗╔╝║╔╗╔╝║║║║╔═╣╔═╗║─║║
              ║╚═╝║╚═╝║║────║║─║║║╚╦╣╠╣╚╩═║║─║║─║║
              ╚═══╩═══╩╝────╚╝─╚╝╚═╩══╩═══╩╝─╚╝─╚╝
-                                 V:2.0
+                                                             V:2.0
  \033                            
  
-  🔥 PAID TOOLS BYPASS BY TANIM 🔥
-_________________________________________
+                 🔥 PAID TOOLS BYPASS BY TANIM 🔥
+              _______________________________________
                                 
-  Github   :  TANIM                      
+                         Github   :  TANIM                      
   
-  whatsapp  : 01572218151
+                         whatsapp  : 01572218151
 
-  Facebook : Abu Tanim
+                         Facebook : Abu Tanim
   
-  Description : IT'S A BYPASS TOOLS
+                  Description : IT'S A BYPASS TOOLS
   
-   🔥 TOOLS QUALITY NOT BAD.TRY IT 🔥
+                 🔥 TOOLS QUALITY NOT BAD.TRY IT 🔥
   
-     🔥🔥 BYPASS BY TANIM 🔥🔥
-________________________________________\033[1;32m""")
+                     🔥🔥 BYPASS BY TANIM 🔥🔥
+             ________________________________________\033[1;32m""")
 class Main:
 	def __init__(self):
 		self.id = []
